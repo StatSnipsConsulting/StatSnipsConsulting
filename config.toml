@@ -12,7 +12,7 @@ googleAnalytics = "UA-99083233-3"
 
   # Metadata for search engines and social sharing
   name = "StatSnips Consulting"
-  description = "StatSnips Consulting provides tailored epidemiologic and data science expertise. Vast Data. Elegantly Simplified."
+  description = "StatSnips Consulting provides tailored data science expertise. Vast Data. Elegantly Simplified."
   shareImage = "images/social.jpg"
   twitterHandle = "statsnips"
 
@@ -26,7 +26,7 @@ googleAnalytics = "UA-99083233-3"
   [params.content]
     name = "Vast Data. Elegantly Simplified."
     tagline = "StatSnips Consulting"
-    bio = "Scientific communication matters - especially in the age of Big Data. StatSnips Consulting provides tailored epidemiologic and data science expertise to elevate your biomedical research."
+    bio = "Scientific communication matters - especially in the age of Big Data. StatSnips Consulting provides tailored data science expertise to elevate your biomedical research."
 
   # Section - Visual
   [params.visual]
@@ -52,16 +52,16 @@ googleAnalytics = "UA-99083233-3"
       heading = "Connect"
 
       [[params.links.list1.link]]
+        text = "About Alvin"
+        url = "https://alvinthomas.github.io"
+
+      [[params.links.list1.link]]
         text = "Blog"
-        url = "#"
+        url = "https://statsnips.com"
 
       [[params.links.list1.link]]
         text = "Email"
-        url = "#"
-
-      [[params.links.list1.link]]
-        text = "Newsletter"
-        url = "#"
+        url = "mailto:alvin@statsnips.com"
 
   # Links List #2
   [[params.links]]
@@ -70,32 +70,29 @@ googleAnalytics = "UA-99083233-3"
 
       [[params.links.list2.link]]
         text = "Twitter"
-        url = "#"
+        url = "https://twitter.com/alvinthomas13"
 
+        
       [[params.links.list2.link]]
-        text = "Instagram"
-        url = "#"
-
-      [[params.links.list2.link]]
-        text = "Dribbble"
-        url = "#"
+        text = "Github"
+        url = "https://github.com/alvinthomas"
 
   # Links List #3
   [[params.links]]
     [params.links.list3]
-      heading = "Network"
+      heading = "Academic"
 
       [[params.links.list3.link]]
-        text = "Link One"
-        url = "#"
+        text = "ORCID"
+        url = "https://orcid.org/0000-0003-4911-8192"
 
       [[params.links.list3.link]]
-        text = "Link Two"
-        url = "#"
+        text = "PubMed"
+        url = "https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/50842911/?sort=date&direction=ascending"
 
       [[params.links.list3.link]]
-        text = "Link Three"
-        url = "#"
+        text = "Research Gate"
+        url = "https://www.researchgate.net/profile/Alvin_Thomas7"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
