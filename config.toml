@@ -53,7 +53,7 @@ googleAnalytics = "UA-99083233-3"
 
       [[params.links.list1.link]]
         text = "About Alvin"
-        url = "https://alvinthomas.github.io"
+        url = "https://alvingthomas.com"
 
       [[params.links.list1.link]]
         text = "Blog"
